@@ -1,0 +1,10 @@
+C:\c#\cacl\cacl\bin\Debug\cacl.exe.config
+C:\c#\cacl\cacl\bin\Debug\cacl.exe
+C:\c#\cacl\cacl\bin\Debug\cacl.pdb
+C:\c#\cacl\cacl\obj\Debug\cacl.csproj.AssemblyReference.cache
+C:\c#\cacl\cacl\obj\Debug\cacl.Form1.resources
+C:\c#\cacl\cacl\obj\Debug\cacl.Properties.Resources.resources
+C:\c#\cacl\cacl\obj\Debug\cacl.csproj.GenerateResource.cache
+C:\c#\cacl\cacl\obj\Debug\cacl.csproj.CoreCompileInputs.cache
+C:\c#\cacl\cacl\obj\Debug\cacl.exe
+C:\c#\cacl\cacl\obj\Debug\cacl.pdb
